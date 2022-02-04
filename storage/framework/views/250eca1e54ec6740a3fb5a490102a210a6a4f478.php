@@ -1,0 +1,1 @@
+<?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/Project/resources/views/register.blade.php ENDPATH**/ ?>
